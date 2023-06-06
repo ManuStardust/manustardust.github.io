@@ -1,0 +1,80 @@
+.ps {
+    text-align: center;
+    background-color: white;
+    color: #090979;
+
+}
+
+.ce {
+	
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);;
+	color: lightblue;
+	margin: 00px;
+	padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.sa {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);;
+    color: lightblue;
+    border: 0px solid;
+    margin: 20px;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.mp {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);;
+    color: lightblue;
+    border: 2px solid;
+    margin: 00px;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.ia {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);;
+    color: lightblue;
+    border: 2px solid;
+    margin: 0px;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.ces {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);
+    color: lightblue;
+    border: 2px solid;
+    margin: 00px;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.cess{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);
+    color: lightblue;
+    border: 2px;
+    margin: 00;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.cesss{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,212,255,1) 100%);
+    color: lightblue;
+    border: 2px;
+    margin: 00;
+    padding: 80px;
+}
+.con{
+    background-color: #090979;
+    color: lightblue;
+    border: 2px;
+    margin: 00;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.corpo{
+    text-align: center;
+}
