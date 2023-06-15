@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    font-size: large;
+}
+.her{
+    background-color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.case{
+    background-color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.prj{
+    background-color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.mat{
+    background-color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.se{
+    background-color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.vet{
+    background-color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    border: 3px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
